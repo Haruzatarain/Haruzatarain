@@ -1,0 +1,15 @@
+- 👋 Hi, I’m @Haruzatarain
+- 👀 I’m interested in the working in cybersegurity 
+- 🌱 I’m currently learning cybersegurity in google
+- 💞️ I’m looking to collaborate on google
+- 📫 How to reach me al addres harusita18@gmail.com
+- 😄 Pronouns: She
+
+<!---
+Haruzatarain/Haruzatarain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<!--- Hola, esta es una prueba de la eficiencia de este codigo para permanecer secreto--->
+
+
